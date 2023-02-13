@@ -1,3 +1,4 @@
+Hosting by Fly.io
 Link: https://moveo-fe.fly.dev/
 
 Front End: React
